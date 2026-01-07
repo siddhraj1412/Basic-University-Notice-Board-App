@@ -29,20 +29,16 @@ A simple and extensible university notice board Flutter application—ideal for 
    git clone https://github.com/siddhraj1412/Basic-University-Notice-Board-App.git
    cd Basic-University-Notice-Board-App
    ```
-
 2. **Install Flutter dependencies:**
-
    ```bash
    flutter pub get
    ```
-
 3. **Run the app:**
-
-   - For Android/iOS:  
+   For Android/iOS:  
      ```bash
      flutter run
      ```
-
+     
 ## 📚 Resources
 
 - [Flutter: Write your first app](https://docs.flutter.dev/get-started/codelab)
@@ -59,3 +55,4 @@ No releases, packages, or specific guidelines yet—so contributions are especia
 This project is open-source and available under the MIT License.
 
 ***
+
